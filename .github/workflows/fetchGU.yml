@@ -1,0 +1,26 @@
+name: Fetch GU RSS Feed
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Fetch RSS Feed
+      uses: Promptly-Technologies-LLC/rss-fetch-action@v2
+      with:
+        feed_url: 'https://www.gazzettaufficiale.it/rss/SG'
+        file_path: './feed.json'
+    
+    - name: Commit and push changes to repository
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Update RSS feed'
+        file_pattern: '*.json'
