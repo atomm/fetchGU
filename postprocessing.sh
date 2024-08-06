@@ -9,4 +9,4 @@ set -o pipefail
 sudo apt-get install miller -y
 
 # retain only two columns of the input file
-mlr --csv -I cut -f data,ricoverati_con_sintomi $1
+#mlr --csv -I cut -f data,ricoverati_con_sintomi $1
