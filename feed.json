@@ -1,283 +1,220 @@
 {
   "title": "Gazzetta Ufficiale - Serie Generale - Sommario",
-  "link": "http://www.gazzettaufficiale.it/eli/gu/2024/12/16/294/SG/html",
-  "description": "Gazzetta Ufficiale - Serie Generale n. 294 del 16-12-2024",
+  "link": "http://www.gazzettaufficiale.it/eli/gu/2024/12/17/295/SG/html",
+  "description": "Gazzetta Ufficiale - Serie Generale n. 295 del 17-12-2024",
   "language": "it",
   "generator": "",
   "published": "",
   "entries": [
     {
-      "id": "udodoy-1734380162000",
-      "title": "LEGGE 13 dicembre 2024, n.191",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24G00209/SG",
-      "published": "2024-12-16T20:16:02.000Z",
-      "description": "Conversione in legge, con modificazioni, del decreto-legge 17 ottobre 2024, n. 153, recante disposizioni urgenti per la  tutela  ambientale del Paese, la razionalizzazione dei  procedimenti  di  valutazione  e autorizzazione ambientale,  la ..."
+      "id": "pjgz4o-1734463765000",
+      "title": "LEGGE 16 dicembre 2024, n.193",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24G00215/SG",
+      "published": "2024-12-17T19:29:25.000Z",
+      "description": "Legge annuale per il mercato e la concorrenza 2023. (24G00215)"
     },
     {
-      "id": "ue4zco-1734380162000",
-      "title": "DECRETO LEGISLATIVO 13 dicembre 2024, n.192",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24G00214/SG",
-      "published": "2024-12-16T20:16:02.000Z",
-      "description": "Revisione del regime impositivo dei redditi (IRPEF-IRES). (24G00214)"
+      "id": "pjds71-1734463764000",
+      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 novembre 2024, n.194",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24G00210/SG",
+      "published": "2024-12-17T19:29:24.000Z",
+      "description": "Regolamento recante determinazione dei parametri per la  liquidazione dei  compensi  per  la  professione  di  consulente   in   proprieta' industriale. (24G00210)"
     },
     {
-      "id": "fn66fp-1734380159000",
+      "id": "aqsvh1-1734463758000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 ottobre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06625/SG",
+      "published": "2024-12-17T19:29:18.000Z",
+      "description": "Modifica  del  decreto  27  settembre  2023,  recante:  «Disposizioni nazionali  in   materia   di   riconoscimento   e   controllo   delle organizzazioni di produttori \"ortofrutticoli\" e loro associazioni, di fondi di esercizio e  programmi ..."
+    },
+    {
+      "id": "au3n17-1734463760000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 7 novembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06685/SG",
+      "published": "2024-12-17T19:29:20.000Z",
+      "description": "Disposizioni   attuative   per   l'esenzione    dall'obbligo    della stampigliatura delle uova nel luogo di produzione, ai sensi del punto 2-bis - dell'allegato VII, parte VI, punto III, del regolamento  (UE) n. 1308/2013 - introdotto..."
+    },
+    {
+      "id": "artwpn-1734463759000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 8 novembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06641/SG",
+      "published": "2024-12-17T19:29:19.000Z",
+      "description": "Programma  di  distribuzione  di  derrate  alimentari  alle   persone indigenti per l'anno 2024. (24A06641)"
+    },
+    {
+      "id": "au4a0q-1734463760000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 10 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06686/SG",
+      "published": "2024-12-17T19:29:20.000Z",
+      "description": "Modifiche ordinarie al disciplinare di produzione della denominazione di origine protetta «La Bella della Daunia». (24A06686)"
+    },
+    {
+      "id": "au4x09-1734463760000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - PROVVEDIMENTO 10 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06687/SG",
+      "published": "2024-12-17T19:29:20.000Z",
+      "description": "Proposta di modifica ordinaria al disciplinare  di  produzione  della indicazione geografica protetta «Salame Felino». (24A06687)"
+    },
+    {
+      "id": "b8cdi0-1734463762000",
+      "title": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - DECRETO 17 ottobre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06732/SG",
+      "published": "2024-12-17T19:29:22.000Z",
+      "description": "Attuazione della direttiva delegata (UE) 2024/1416 della Commissione, del 13 marzo 2024, mediante modifica dell'allegato  III  del  decreto legislativo 4 marzo 2014, n. 27,  sulla  restrizione  di  determinate sostanze pericolose nelle..."
+    },
+    {
+      "id": "aqpoje-1734463756000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 22 novembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06620/SG",
+      "published": "2024-12-17T19:29:16.000Z",
+      "description": "Emissione e corso legale  della  moneta  in  cupronichel  da  5  euro appartenente alla Serie «Cultura enogastronomica italiana - Barolo  e Cioccolato - Piemonte»,  in  versione  fior  di  conio  con  elementi colorati, millesimo 2025. (24A06620)"
+    },
+    {
+      "id": "aqqbix-1734463756000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 22 novembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06621/SG",
+      "published": "2024-12-17T19:29:16.000Z",
+      "description": "Emissione e corso legale della moneta in bronzital e cupronichel da 6 euro celebrativa del «160° Anniversario delle Capitanerie di porto  e Guardia  costiera»,  in  versione  fior  di  conio,  millesimo  2025. (24A06621)"
+    },
+    {
+      "id": "aqqyig-1734463757000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06622/SG",
+      "published": "2024-12-17T19:29:17.000Z",
+      "description": "Emissione e  corso  legale  delle  monete  da  2  euro  commemorative celebrative  del  «Giubileo  2025»,   destinate   alla   circolazione ordinaria e nelle versioni fior di conio  e  proof,  millesimo  2025. (24A06622)"
+    },
+    {
+      "id": "aqrlhz-1734463757000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06623/SG",
+      "published": "2024-12-17T19:29:17.000Z",
+      "description": "Emissione e  corso  legale  delle  monete  da  2  euro  commemorative celebrative del «Tour mondiale della  Nave  Scuola  Amerigo  Vespucci 2023-2025», destinate alla circolazione ordinaria  e  nelle  versioni fior di conio e proof, millesimo 2025...."
+    },
+    {
+      "id": "aqs8hi-1734463758000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06624/SG",
+      "published": "2024-12-17T19:29:18.000Z",
+      "description": "Emissione e corso legale della  moneta  in  nikel-brass  da  10  euro celebrativa del «Tour mondiale della  Nave  Scuola  Amerigo  Vespucci 2023-2025», in versione proof, millesimo 2025. (24A06624)"
+    },
+    {
+      "id": "b7x1tc-1734463762000",
       "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 6 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06657/SG",
-      "published": "2024-12-16T20:15:59.000Z",
-      "description": "Accertamento  dei  quantitativi   dei   titoli   emessi   a   seguito dell'operazione di emissione di titoli di Stato del 25 novembre 2024, dei relativi prezzi di emissione e del capitale  residuo  circolante. (24A06657)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06729/SG",
+      "published": "2024-12-17T19:29:22.000Z",
+      "description": "Requisiti soggettivi e oggettivi di accesso al regime di  adempimento collaborativo. (24A06729)"
     },
     {
-      "id": "fkekhd-1734380155000",
-      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 5 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06606/SG",
-      "published": "2024-12-16T20:15:55.000Z",
-      "description": "Riconoscimento del Consorzio di tutela del Cioccolato di Modica IGP e attribuzione  dell'incarico  di   svolgere   le   funzioni   di   cui all'articolo 53, comma 15, della legge 24 aprile 1998, n.  128,  come modificato dall'articolo 14, della..."
+      "id": "b8dnh2-1734463763000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 11 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06734/SG",
+      "published": "2024-12-17T19:29:23.000Z",
+      "description": "Emissione dei buoni ordinari del Tesoro a 364 giorni, prima e seconda tranche. (24A06734)"
     },
     {
-      "id": "fkf7gw-1734380155000",
-      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 5 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06607/SG",
-      "published": "2024-12-16T20:15:55.000Z",
-      "description": "Conferma dell'incarico al Consorzio per la  valorizzazione  e  tutela dell'olio extra vergine di  oliva  a  DOP  «Collina  di  Brindisi»  a svolgere le funzioni di cui all'articolo 53, comma 15, della legge 24 aprile 1998, n. 128, come modificato..."
-    },
-    {
-      "id": "fkfugf-1734380155000",
-      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 5 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06608/SG",
-      "published": "2024-12-16T20:15:55.000Z",
-      "description": "Conferma dell'incarico al Consorzio Zampone e Cotechino Modena IGP  a svolgere le funzioni di cui all'articolo 53, comma 15, della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14 della legge  21 dicembre 1999, n. 526, per  le  IGP ..."
-    },
-    {
-      "id": "fkghfy-1734380155000",
-      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 5 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06609/SG",
-      "published": "2024-12-16T20:15:55.000Z",
-      "description": "Conferma dell'incarico al Consorzio di tutela  della  IGP  Riso  Nano Vialone Veronese a svolgere le funzioni di cui all'articolo 53, comma 15, della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14 della legge 21 dicembre 1999,  n. ..."
-    },
-    {
-      "id": "fkdxhu-1734380154000",
-      "title": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - DECRETO 2 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06605/SG",
-      "published": "2024-12-16T20:15:54.000Z",
-      "description": "Ridefinizione  del  perimetro  del  sito  di  bonifica  di  interesse nazionale «Manfredonia». (24A06605)"
-    },
-    {
-      "id": "fkaqk7-1734380152000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 20 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06600/SG",
-      "published": "2024-12-16T20:15:52.000Z",
-      "description": "Emissione e corso legale della moneta in rame da 5  euro  celebrativa delle «Capitali italiane della Cultura: Agrigento», in versione  fior di conio, millesimo 2025. (24A06600)"
-    },
-    {
-      "id": "fkbdjq-1734380152000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 22 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06601/SG",
-      "published": "2024-12-16T20:15:52.000Z",
-      "description": "Emissione e corso legale della moneta d'oro da 50 euro dedicata a «La riedizione  della  Lira  -  20  Lire»,  in  versione  reverse  proof, millesimo 2025. (24A06601)"
-    },
-    {
-      "id": "fkc0j9-1734380153000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 22 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06602/SG",
-      "published": "2024-12-16T20:15:53.000Z",
-      "description": "Emissione e corso legale della moneta d'oro da 20 euro dedicata a «La riedizione  della  Lira  -  20  Lire»,  in  versione  reverse  proof, millesimo 2025. (24A06602)"
-    },
-    {
-      "id": "fkcnis-1734380153000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 22 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06603/SG",
-      "published": "2024-12-16T20:15:53.000Z",
-      "description": "Emissione e corso legale della moneta d'oro da 10 euro dedicata  alla Serie «Fontane d'Italia - Fontana  dei  Quattro  Fiumi  -  Roma»,  in versione proof, millesimo 2025. (24A06603)"
-    },
-    {
-      "id": "g2gl4n-1734380160000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 10 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06721/SG",
-      "published": "2024-12-16T20:16:00.000Z",
-      "description": "Determinazione del saggio degli interessi legali. (24A06721)"
-    },
-    {
-      "id": "fob1lh-1734380159000",
-      "title": "MINISTERO DELL'ISTRUZIONE E DEL MERITO - DECRETO 22 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06679/SG",
-      "published": "2024-12-16T20:15:59.000Z",
-      "description": "Approvazione delle graduatorie definitive degli interventi finanziati con le risorse della quota a gestione statale dell'otto per mille per la realizzazione di interventi di edilizia scolastica. (24A06679)"
-    },
-    {
-      "id": "e6xq2e-1734380149000",
-      "title": "MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - DECRETO 18 ottobre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06337/SG",
-      "published": "2024-12-16T20:15:49.000Z",
-      "description": "Programma per il  reclutamento  di  giovani  ricercatori  «Rita  Levi Montalcini». (Decreto n. 1652). (24A06337)"
-    },
-    {
-      "id": "fkdaib-1734380153000",
-      "title": "MINISTERO DELLA SALUTE - DECRETO 21 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06604/SG",
-      "published": "2024-12-16T20:15:53.000Z",
-      "description": "Individuazione degli uffici di livello dirigenziale non generale  del Ministero della salute. (24A06604)"
-    },
-    {
-      "id": "fkuj5k-1734380155000",
+      "id": "asi67p-1734463759000",
       "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06610/SG",
-      "published": "2024-12-16T20:15:55.000Z",
-      "description": "Sostituzione del commissario liquidatore della «Inforcoop -  Istituto nazionale  di  formazione  coperativa  soc.  coop.»,  in   Roma,   in liquidazione coatta amministrativa. (24A06610)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06658/SG",
+      "published": "2024-12-17T19:29:19.000Z",
+      "description": "Liquidazione coatta amministrativa  della  «Work  Solutions  societa' cooperativa in liquidazione»,  in  Adria  e  nomina  del  commissario liquidatore. (24A06658)"
     },
     {
-      "id": "fkv653-1734380156000",
-      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06611/SG",
-      "published": "2024-12-16T20:15:56.000Z",
-      "description": "Sostituzione del commissario liquidatore della  «L.C.  Costruzioni  a r.l. societa' cooperativa - In liquidazione  coatta  amministrativa», in Frosinone, in liquidazione coatta amministrativa. (24A06611)"
+      "id": "b7raxl-1734463762000",
+      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 9 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06720/SG",
+      "published": "2024-12-17T19:29:22.000Z",
+      "description": "Modalita' per l'acquisizione dei dati necessari  per  la  tenuta  del catasto  delle  infrastrutture  di   telecomunicazioni   strategiche. (24A06720)"
     },
     {
-      "id": "fkvt4m-1734380156000",
-      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06612/SG",
-      "published": "2024-12-16T20:15:56.000Z",
-      "description": "Sostituzione  del  commissario  liquidatore  della  «Molino  Popolare Marscianese  societa'  cooperativa  a  responsabilita'  limitata  per azioni piu' brevemente M.P.M. soc. coop. P.A. in liquidazione  coatta amministrativa», in Marsciano, in..."
+      "id": "b8eagl-1734463763000",
+      "title": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO EX D.P.C.M. 22 FEBBRAIO 2024 - ORDINANZA 11 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06735/SG",
+      "published": "2024-12-17T19:29:23.000Z",
+      "description": "Svolgimento della Valutazione ambientale strategica (VAS)  del  Piano regionale di  gestione  dei  rifiuti  -  Stralcio  rifiuti  speciali. (Ordinanza n. 4). (24A06735)"
     },
     {
-      "id": "fkwg45-1734380156000",
-      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 4 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06613/SG",
-      "published": "2024-12-16T20:15:56.000Z",
-      "description": "Sostituzione del commissario liquidatore della  «Cooperativa  sociale Stringi i Denti e Vai - In liquidazione  coatta  amministrativa»,  in Arce, in liquidazione coatta amministrativa. (24A06613)"
+      "id": "aqu5g3-1734463758000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06627/SG",
+      "published": "2024-12-17T19:29:18.000Z",
+      "description": "Rettifica corrigendum della determina  n.  653/2024  del  31  ottobre 2024, concernente la  classificazione,  ai  sensi  dell'articolo  12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per  uso umano, a base di erdafitinib,..."
     },
     {
-      "id": "f78588-1734380150000",
-      "title": "MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI - DECRETO 3 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06577/SG",
-      "published": "2024-12-16T20:15:50.000Z",
-      "description": "Modalita' di svolgimento dei  corsi  di  addestramento  e  formazione professionale per i lavoratori marittimi previsti  dalla  Convenzione STCW'78 nella sua versione aggiornata e per la  Maritime  Security  - Codice ISPS presso i centri di..."
+      "id": "aqusfm-1734463759000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06628/SG",
+      "published": "2024-12-17T19:29:19.000Z",
+      "description": "Rettifica corrigendum della determina  n.  667/2024  del  31  ottobre 2024, concernente la  classificazione,  ai  sensi  dell'articolo  12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per  uso umano, a base di sotatercept,..."
     },
     {
-      "id": "fkx33o-1734380156000",
-      "title": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - ORDINANZA 6 dicembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06614/SG",
-      "published": "2024-12-16T20:15:56.000Z",
-      "description": "Primi interventi urgenti di protezione civile  in  conseguenza  degli eccezionali eventi meteorologici verificatisi  nei  giorni  17  e  18 ottobre 2024 nel territorio  dei  Comuni  di  Castelfiorentino  e  di Certaldo  della  Citta' ..."
+      "id": "aukvog-1734463761000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 5 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06691/SG",
+      "published": "2024-12-17T19:29:21.000Z",
+      "description": "Regime di rimborsabilita' e prezzo, a seguito  di  nuove  indicazioni terapeutiche, riclassificazione e rinegoziazione del  medicinale  per uso umano «Biktarvy», ai sensi dell'articolo 8, comma 10, della legge 24 dicembre 1993, n. 537. (Determina..."
     },
     {
-      "id": "g31np2-1734380161000",
-      "title": "TESTO COORDINATO DEL DECRETO-LEGGE 17 ottobre 2024, n.153",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06733/SG",
-      "published": "2024-12-16T20:16:01.000Z",
-      "description": "Testo  del  decreto-legge  17  ottobre  2024,  n.  153  (in  Gazzetta Ufficiale - Serie generale - n. 244 del 17 ottobre 2024),  coordinato con la legge di conversione 13  dicembre  2024,  n.  191  (in  questa stessa Gazzetta  Ufficiale,  alla ..."
+      "id": "aulinz-1734463761000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 5 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06692/SG",
+      "published": "2024-12-17T19:29:21.000Z",
+      "description": "Regime di rimborsabilita' e prezzo, a seguito  di  nuove  indicazioni terapeutiche, del medicinale per uso umano «Genvoya».  (Determina  n. 755/2024). (24A06692)"
     },
     {
-      "id": "fkz029-1734380157000",
+      "id": "au66zb-1734463761000",
+      "title": "ISTITUTO PER LA VIGILANZA SULLE ASSICURAZIONI - PROVVEDIMENTO 6 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06689/SG",
+      "published": "2024-12-17T19:29:21.000Z",
+      "description": "Fissazione dell'aliquota per il calcolo degli oneri  di  gestione  da dedursi dai premi assicurativi incassati nell'esercizio 2025 ai  fini della determinazione del contributo di  vigilanza  sull'attivita'  di assicurazione e riassicurazione, ai..."
+    },
+    {
+      "id": "aqtigk-1734463758000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06617/SG",
-      "published": "2024-12-16T20:15:57.000Z",
-      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di carbidopa e levodopa, «Carbilev». (24A06617)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06626/SG",
+      "published": "2024-12-17T19:29:18.000Z",
+      "description": "Modifica  dell'autorizzazione   all'immissione   in   commercio   del medicinale per uso umano, a base di rifaximina, «Flonorm». (24A06626)"
     },
     {
-      "id": "fkzn1s-1734380157000",
+      "id": "aqvff5-1734463759000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06618/SG",
-      "published": "2024-12-16T20:15:57.000Z",
-      "description": "Revoca, su rinuncia, dell'autorizzazione all'immissione in  commercio del medicinale per uso umano «Meloxicam Hexal». (24A06618)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06629/SG",
+      "published": "2024-12-17T19:29:19.000Z",
+      "description": "Modifica  dell'autorizzazione   all'immissione   in   commercio   del medicinale per uso  umano,  a  base  di  ebastina,  «Ebastina  Teva». (24A06629)"
     },
     {
-      "id": "fl0a1b-1734380157000",
+      "id": "ar9h4r-1734463759000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06619/SG",
-      "published": "2024-12-16T20:15:57.000Z",
-      "description": "Revoca, su rinuncia, dell'autorizzazione all'immissione in  commercio del medicinale per uso umano «Giantrix» (24A06619)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06630/SG",
+      "published": "2024-12-17T19:29:19.000Z",
+      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di beclometasone dipropionato  e  formoterolo  fumarato diidrato, «Beclometasone e Formoterolo Zentiva Italia». (24A06630)"
     },
     {
-      "id": "g2h846-1734380160000",
-      "title": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06722/SG",
-      "published": "2024-12-16T20:16:00.000Z",
-      "description": "Avviso a valere sul Libretto smart (24A06722)"
+      "id": "aum5ni-1734463761000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06693/SG",
+      "published": "2024-12-17T19:29:21.000Z",
+      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di ticagrelor, «Ticagrelor Liconsa» (24A06693)"
     },
     {
-      "id": "fkxq37-1734380157000",
-      "title": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06615/SG",
-      "published": "2024-12-16T20:15:57.000Z",
-      "description": "Passaggio dal demanio al patrimonio dello Stato del  terreno  ubicato nel Comune di Fiorano Modenese (24A06615)"
+      "id": "aumsn1-1734463762000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06694/SG",
+      "published": "2024-12-17T19:29:22.000Z",
+      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di disodio clodronato e lidocaina cloridrato, «Zhajon». (24A06694)"
     },
     {
-      "id": "fkyd2q-1734380157000",
-      "title": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06616/SG",
-      "published": "2024-12-16T20:15:57.000Z",
-      "description": "Passaggio dal demanio al patrimonio dello Stato di un tratto  dell'ex alveo Roggia Rosa', in localita' Ca'  Dolfin  nel  Comune  di  Rosa'. (24A06616)"
+      "id": "au5jzs-1734463760000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06688/SG",
+      "published": "2024-12-17T19:29:20.000Z",
+      "description": "Comunicazione della Commissione UE  relativa  all'approvazione  della modifica ordinaria del disciplinare di produzione della denominazione di origine protetta dei vini «Asti». (24A06688)"
     },
     {
-      "id": "fn2zi2-1734380158000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06652/SG",
-      "published": "2024-12-16T20:15:58.000Z",
-      "description": "Cambi di riferimento rilevati  a  titolo  indicativo  del  giorno  25 novembre 2024 (24A06652)"
-    },
-    {
-      "id": "fn3mhl-1734380158000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06653/SG",
-      "published": "2024-12-16T20:15:58.000Z",
-      "description": "Cambi di riferimento rilevati  a  titolo  indicativo  del  giorno  26 novembre 2024 (24A06653)"
-    },
-    {
-      "id": "fn49h4-1734380158000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06654/SG",
-      "published": "2024-12-16T20:15:58.000Z",
-      "description": "Cambi di riferimento rilevati  a  titolo  indicativo  del  giorno  27 novembre 2024 (24A06654)"
-    },
-    {
-      "id": "fn4wgn-1734380158000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06655/SG",
-      "published": "2024-12-16T20:15:58.000Z",
-      "description": "Cambi di riferimento rilevati  a  titolo  indicativo  del  giorno  28 novembre 2024 (24A06655)"
-    },
-    {
-      "id": "fn5jg6-1734380158000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06656/SG",
-      "published": "2024-12-16T20:15:58.000Z",
-      "description": "Cambi di riferimento rilevati  a  titolo  indicativo  del  giorno  29 novembre 2024 (24A06656)"
-    },
-    {
-      "id": "fop3b3-1734380159000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06680/SG",
-      "published": "2024-12-16T20:15:59.000Z",
-      "description": "Cambi di riferimento  rilevati  a  titolo  indicativo  del  giorno  2 dicembre 2024 (24A06680)"
-    },
-    {
-      "id": "fopqam-1734380160000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06681/SG",
-      "published": "2024-12-16T20:16:00.000Z",
-      "description": "Cambi di riferimento  rilevati  a  titolo  indicativo  del  giorno  3 dicembre 2024 (24A06681)"
-    },
-    {
-      "id": "foqda5-1734380160000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06682/SG",
-      "published": "2024-12-16T20:16:00.000Z",
-      "description": "Cambi di riferimento  rilevati  a  titolo  indicativo  del  giorno  4 dicembre 2024 (24A06682)"
-    },
-    {
-      "id": "for09o-1734380160000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06683/SG",
-      "published": "2024-12-16T20:16:00.000Z",
-      "description": "Cambi di riferimento  rilevati  a  titolo  indicativo  del  giorno  5 dicembre 2024 (24A06683)"
-    },
-    {
-      "id": "forn97-1734380160000",
-      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/16/24A06684/SG",
-      "published": "2024-12-16T20:16:00.000Z",
-      "description": "Cambi di riferimento  rilevati  a  titolo  indicativo  del  giorno  6 dicembre 2024 (24A06684)"
+      "id": "auk8ox-1734463761000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2024/12/17/24A06690/SG",
+      "published": "2024-12-17T19:29:21.000Z",
+      "description": "Comunicazione alla Commissione  UE  relativa  all'approvazione  della modifica ordinaria del disciplinare di produzione della denominazione di origine protetta dei vini «Montecucco». (24A06690)"
     }
   ]
 }
