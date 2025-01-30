@@ -1,143 +1,206 @@
 {
   "title": "Gazzetta Ufficiale - Serie Generale - Sommario",
-  "link": "http://www.gazzettaufficiale.it/eli/gu/2025/01/28/22/SG/html",
-  "description": "Gazzetta Ufficiale - Serie Generale n. 22 del 28-01-2025",
+  "link": "http://www.gazzettaufficiale.it/eli/gu/2025/01/29/23/SG/html",
+  "description": "Gazzetta Ufficiale - Serie Generale n. 23 del 29-01-2025",
   "language": "it",
   "generator": "",
   "published": "",
   "entries": [
     {
-      "id": "jhkfoz-1738091481000",
+      "id": "fypw3v-1738176981000",
+      "title": "CAMERA DEI DEPUTATI - CONVOCAZIONE",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00707/SG",
+      "published": "2025-01-29T18:56:21.000Z",
+      "description": "Rinvio della convocazione del Parlamento in seduta comune. (25A00707)"
+    },
+    {
+      "id": "enwtq2-1738176976000",
+      "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00483/SG",
+      "published": "2025-01-29T18:56:16.000Z",
+      "description": "Conferimento dell'onorificenza di Cavaliere di Gran Croce dell'Ordine della «Stella d'Italia». (25A00483)"
+    },
+    {
+      "id": "enxgpl-1738176976000",
+      "title": "DECRETO DEL PRESIDENTE DEL SENATO DELLA REPUBBLICA 30 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00484/SG",
+      "published": "2025-01-29T18:56:16.000Z",
+      "description": "Conferimento  dell'onorificenza  di  Commendatore  dell'Ordine  della «Stella d'Italia». (25A00484)"
+    },
+    {
+      "id": "eny3p4-1738176976000",
+      "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00485/SG",
+      "published": "2025-01-29T18:56:16.000Z",
+      "description": "Conferimento dell'onorificenza di Ufficiale dell'Ordine della «Stella d'Italia». (25A00485)"
+    },
+    {
+      "id": "enyqon-1738176976000",
+      "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00486/SG",
+      "published": "2025-01-29T18:56:16.000Z",
+      "description": "Conferimento dell'onorificenza di Cavaliere dell'Ordine della «Stella d'Italia». (25A00486)"
+    },
+    {
+      "id": "eng82c-1738176975000",
       "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00467/SG",
-      "published": "2025-01-28T19:11:21.000Z",
-      "description": "Scioglimento del consiglio comunale di Genova. (25A00467)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00478/SG",
+      "published": "2025-01-29T18:56:15.000Z",
+      "description": "Scioglimento  del  consiglio  comunale  di  Eraclea  e   nomina   del commissario straordinario. (25A00478)"
     },
     {
-      "id": "jhl2oi-1738091482000",
+      "id": "engv1v-1738176975000",
       "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00468/SG",
-      "published": "2025-01-28T19:11:22.000Z",
-      "description": "Scioglimento del consiglio comunale di Cascinette  d'Ivrea  e  nomina del commissario straordinario. (25A00468)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00479/SG",
+      "published": "2025-01-29T18:56:15.000Z",
+      "description": "Scioglimento del consiglio comunale di Borso del Grappa e nomina  del commissario straordinario. (25A00479)"
     },
     {
-      "id": "jhlpo1-1738091482000",
+      "id": "enuwrh-1738176975000",
       "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00469/SG",
-      "published": "2025-01-28T19:11:22.000Z",
-      "description": "Scioglimento  del  consiglio  comunale  di  Sulmona  e   nomina   del commissario straordinario. (25A00469)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00480/SG",
+      "published": "2025-01-29T18:56:15.000Z",
+      "description": "Scioglimento del consiglio comunale di  Fiano  Romano  e  nomina  del commissario straordinario. (25A00480)"
     },
     {
-      "id": "ji3lat-1738091485000",
+      "id": "envjr0-1738176975000",
       "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00476/SG",
-      "published": "2025-01-28T19:11:25.000Z",
-      "description": "Scioglimento del consiglio comunale di Santa Maria di Sala  e  nomina del commissario straordinario. (25A00476)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00481/SG",
+      "published": "2025-01-29T18:56:15.000Z",
+      "description": "Scioglimento del  consiglio  comunale  di  Casavatore  e  nomina  del commissario straordinario. (25A00481)"
     },
     {
-      "id": "ji48ac-1738091485000",
+      "id": "enw6qj-1738176976000",
       "title": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00477/SG",
-      "published": "2025-01-28T19:11:25.000Z",
-      "description": "Scioglimento  del  consiglio  comunale  di  Scalea   e   nomina   del commissario straordinario. (25A00477)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00482/SG",
+      "published": "2025-01-29T18:56:16.000Z",
+      "description": "Scioglimento  del  consiglio  comunale  di  Cetraro  e   nomina   del commissario straordinario. (25A00482)"
     },
     {
-      "id": "jhzrdn-1738091483000",
-      "title": "MINISTERO DELLA SALUTE - DECRETO 17 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00470/SG",
-      "published": "2025-01-28T19:11:23.000Z",
-      "description": "Sospensione  della  validita'  del  decreto  1°  ottobre   2020,   di indicazioni per le etichette dell'acqua minerale naturale «Vitasana», in Comune di Feroleto Antico. (25A00470)"
+      "id": "f29e41-1738176979000",
+      "title": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 15 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00536/SG",
+      "published": "2025-01-29T18:56:19.000Z",
+      "description": "Conferma dell'incarico al Consorzio di tutela della pasta di Gragnano IGP a svolgere le funzioni di cui all'articolo 53,  comma  15,  della legge 24 aprile 1998, n. 128, come modificato dall'articolo 14  della legge 21 dicembre 1999, n.  526  per ..."
     },
     {
-      "id": "ji11cp-1738091483000",
-      "title": "MINISTERO DELLA SALUTE - DECRETO 17 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00472/SG",
-      "published": "2025-01-28T19:11:23.000Z",
-      "description": "Indicazioni per le etichette dell'acqua minerale naturale «Acqua  San Carlo dr Zonder», Comune di Massa. (25A00472)"
+      "id": "f3wrw4-1738176980000",
+      "title": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 21 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00566/SG",
+      "published": "2025-01-29T18:56:20.000Z",
+      "description": "Trasmissione all'Agenzia delle entrate, ai  fini  della  elaborazione della dichiarazione dei redditi precompilata, dei dati riguardanti  i proventi derivanti dalla cessione dell'energia prodotta in esubero  a seguito di utilizzo di un impianto..."
     },
     {
-      "id": "ji1oc8-1738091484000",
-      "title": "MINISTERO DELLA SALUTE - DECRETO 17 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00473/SG",
-      "published": "2025-01-28T19:11:24.000Z",
-      "description": "Ripristino della validita' del decreto di  riconoscimento  dell'acqua minerale naturale «Benaglia», nel Comune di Lazise. (25A00473)"
+      "id": "eoj69j-1738176979000",
+      "title": "MINISTERO DELLA GIUSTIZIA - DECRETO 31 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00497/SG",
+      "published": "2025-01-29T18:56:19.000Z",
+      "description": "Approvazione del bilancio di previsione degli  Archivi  notarili  per l'anno 2025 e per il triennio 2025-2027. (25A00497)"
     },
     {
-      "id": "ji0ed6-1738091483000",
-      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 10 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00471/SG",
-      "published": "2025-01-28T19:11:23.000Z",
-      "description": "Scioglimento della «Cooperativa sociale Assistenza Amica», in Cosenza e nomina del commissario liquidatore. (25A00471)"
+      "id": "enzdo6-1738176977000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00487/SG",
+      "published": "2025-01-29T18:56:17.000Z",
+      "description": "Riclassificazione  del  medicinale  per   uso   umano   «Fexofenadina Aurobindo», ai sensi  dell'articolo  8,  comma  10,  della  legge  24 dicembre 1993, n. 537. (Determina n. 29/2025). (25A00487)"
     },
     {
-      "id": "jyk54l-1738091486000",
-      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 22 gennaio 2025",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00564/SG",
-      "published": "2025-01-28T19:11:26.000Z",
-      "description": "Diniego del rinnovo dell'autorizzazione all'immissione  in  commercio del medicinale per  uso  umano  «Vulpur».  (Determina  n.  147/2025). (25A00564)"
+      "id": "eo00np-1738176977000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00488/SG",
+      "published": "2025-01-29T18:56:17.000Z",
+      "description": "Riclassificazione del medicinale per uso umano «Icatibant Hikma»,  ai sensi dell'articolo 8, comma 10, della legge  24  dicembre  1993,  n. 537. (Determina n. 31/2025). (25A00488)"
     },
     {
-      "id": "kcacz3-1738091487000",
-      "title": "GARANTE PER LA PROTEZIONE DEI DATI PERSONALI - DELIBERA 27 novembre 2024",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00603/SG",
-      "published": "2025-01-28T19:11:27.000Z",
-      "description": "Adozione del regolamento per la disciplina dei contratti  di  appalto dell'Ufficio del Garante aventi importo inferiore alle soglie europee e dell'unito regolamento. (Delibera n. 836). (25A00603)"
+      "id": "eo0nn8-1738176977000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00489/SG",
+      "published": "2025-01-29T18:56:17.000Z",
+      "description": "Riclassificazione del medicinale per uso umano «Arimidex»,  ai  sensi dell'articolo 8, comma 10, della legge  24  dicembre  1993,  n.  537. (Determina n. 30/2025). (25A00489)"
     },
     {
-      "id": "jerjrl-1738091479000",
+      "id": "eoepcu-1738176977000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00490/SG",
+      "published": "2025-01-29T18:56:17.000Z",
+      "description": "Riclassificazione del medicinale per uso umano  «Busette»,  ai  sensi dell'articolo 8, comma 10, della legge  24  dicembre  1993,  n.  537. (Determina n. 39/2025). (25A00490)"
+    },
+    {
+      "id": "eofccd-1738176978000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00491/SG",
+      "published": "2025-01-29T18:56:18.000Z",
+      "description": "Riclassificazione del medicinale per uso umano  «Vyvgart»,  ai  sensi dell'articolo 8, comma 10, della legge  24  dicembre  1993,  n.  537. (Determina n. 37/2025). (25A00491)"
+    },
+    {
+      "id": "eofzbw-1738176978000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00492/SG",
+      "published": "2025-01-29T18:56:18.000Z",
+      "description": "Riclassificazione del medicinale per uso umano  «Kadcyla»,  ai  sensi dell'articolo 8, comma 10, della legge  24  dicembre  1993,  n.  537. (Determina n. 40/2025). (25A00492)"
+    },
+    {
+      "id": "eoija0-1738176979000",
+      "title": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 10 gennaio 2025",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00496/SG",
+      "published": "2025-01-29T18:56:19.000Z",
+      "description": "Riclassificazione del medicinale per uso umano  «Bysabel»,  ai  sensi dell'articolo 8, comma 10, della legge  24  dicembre  1993,  n.  537. (Determina n. 42/2025). (25A00496)"
+    },
+    {
+      "id": "f2a13k-1738176980000",
+      "title": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 7 novembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00537/SG",
+      "published": "2025-01-29T18:56:20.000Z",
+      "description": "Piano di assistenza tecnica e azioni di  sistema  per  la  governance 2021-2027 dell'obiettivo cooperazione territoriale europea  2021-2027 (PATAS CTE 21-27). Programma operativo complementare ai  sensi  della delibera CIPESS n. 78 del 2021...."
+    },
+    {
+      "id": "f3xevn-1738176980000",
+      "title": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 19 dicembre 2024",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00567/SG",
+      "published": "2025-01-29T18:56:20.000Z",
+      "description": "Fondo sanitario nazionale 2023 - riparto del contributo di 20 milioni di euro per l'attivita' degli IRCCS in favore di cittadini  residenti in regioni diverse da quelle di appartenenza, articolo 1, comma  496, legge 30 dicembre 2020, n. 178...."
+    },
+    {
+      "id": "eogmbf-1738176978000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00414/SG",
-      "published": "2025-01-28T19:11:19.000Z",
-      "description": "Autorizzazione all'importazione  parallela  del  medicinale  per  uso umano «Xanax». (25A00414)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00493/SG",
+      "published": "2025-01-29T18:56:18.000Z",
+      "description": "Modifica  dell'autorizzazione   all'immissione   in   commercio   del medicinale per uso umano, a  base  di  zolpidem  tartrato,  «Zolpidem Sandoz». (25A00493)"
     },
     {
-      "id": "jes6r4-1738091480000",
+      "id": "eoh9ay-1738176979000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00415/SG",
-      "published": "2025-01-28T19:11:20.000Z",
-      "description": "Autorizzazione all'importazione  parallela  del  medicinale  per  uso umano «Diane». (25A00415)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00494/SG",
+      "published": "2025-01-29T18:56:19.000Z",
+      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di cetirizina, «Cetirizina Medreg» (25A00494)"
     },
     {
-      "id": "jestqn-1738091480000",
+      "id": "eohwah-1738176979000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00416/SG",
-      "published": "2025-01-28T19:11:20.000Z",
-      "description": "Autorizzazione all'importazione  parallela  del  medicinale  per  uso umano «Opdivo». (25A00416)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00495/SG",
+      "published": "2025-01-29T18:56:19.000Z",
+      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di apixaban, «Apixaban Cipla» (25A00495)"
     },
     {
-      "id": "ji2bbr-1738091484000",
+      "id": "f3youp-1738176980000",
       "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00474/SG",
-      "published": "2025-01-28T19:11:24.000Z",
-      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano  «Efluelda»,  vaccino  influenzale  trivalente  (virioni  split inattivati). (25A00474)"
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00569/SG",
+      "published": "2025-01-29T18:56:20.000Z",
+      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano, a base di dimetilfumarato, «Dimetilfumarato  Zentiva  Italia». (25A00569)"
     },
     {
-      "id": "ji2yba-1738091484000",
-      "title": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00475/SG",
-      "published": "2025-01-28T19:11:24.000Z",
-      "description": "Autorizzazione all'immissione in commercio  del  medicinale  per  uso umano «Vaxigrip», vaccino  antinfluenzale  trivalente  preparato  con virus frammentati «split», inattivati. (25A00475)"
+      "id": "eojt92-1738176979000",
+      "title": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00498/SG",
+      "published": "2025-01-29T18:56:19.000Z",
+      "description": "Aggiornamento della pericolosita' idraulica nel  Comune  di  Mogliano Veneto (25A00498)"
     },
     {
-      "id": "jfd9bj-1738091481000",
-      "title": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00427/SG",
-      "published": "2025-01-28T19:11:21.000Z",
-      "description": "Limitazione delle funzioni del titolare  del  Consolato  onorario  in Norimberga (Germania). (25A00427)"
-    },
-    {
-      "id": "jfdwb2-1738091481000",
-      "title": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00428/SG",
-      "published": "2025-01-28T19:11:21.000Z",
-      "description": "Istituzione del Vice Consolato onorario a Manta (Ecuador). (25A00428)"
-    },
-    {
-      "id": "jyks44-1738091486000",
-      "title": "PROVINCIA AUTONOMA DI BOLZANO ALTO ADIGE - COMUNICATO",
-      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/28/25A00565/SG",
-      "published": "2025-01-28T19:11:26.000Z",
-      "description": "Scioglimento, per atto dell'autorita',  della  cooperativa  «Progetto Artisti», in  Bolzano,  senza  nomina  del  commissario  liquidatore. (25A00565)"
+      "id": "f3y1v6-1738176980000",
+      "title": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO",
+      "link": "http://www.gazzettaufficiale.it/eli/id/2025/01/29/25A00568/SG",
+      "published": "2025-01-29T18:56:20.000Z",
+      "description": "Comunicato relativo  al  decreto  ministeriale  22  novembre  2024  - Investimenti  sostenibili  4.0  -  Attivazione  di  un  nuovo   bando finanziato a valere sulle risorse del PN RIC 2021 - 2027. (25A00568)"
     }
   ]
 }
