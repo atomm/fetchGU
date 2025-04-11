@@ -9,7 +9,7 @@ import csv
 
 # Configuration
 RSS_URL = os.environ.get('RSS_URL', 'https://example.com/feed.xml')
-CSV_PATH = os.environ.get('CSV_PATH', 'data/rss_feed.csv')
+CSV_PATH = os.environ.get('CSV_PATH', 'data/gazzetta-update.csv')
 MAX_ENTRIES = int(os.environ.get('MAX_ENTRIES', 10))
 
 def ensure_directory_exists(file_path):
