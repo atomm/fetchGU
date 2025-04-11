@@ -28,6 +28,10 @@ jobs:
       - name: Fetch RSS and update CSV
         run: |
           python .github/scripts/rss_to_csv.py
+        env:
+          RSS_URL: 'https://www.gazzettaufficiale.it/rss/SG'
+          CSV_PATH: 'data/gazzetta-update.csv'
+          MAX_ENTRIES: 100
           
       - name: Commit and push changes
         run: |
