@@ -35,8 +35,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --global atomm 'GitHub Action'
-          git config --global tommaso.agnoloni@gmail.com 'action@github.com'
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
           git add data/gazzetta-update.csv
           git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS feed data [skip ci]"
           git push
